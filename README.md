@@ -4,4 +4,4 @@
 ### Membuat Paragraf
 kode tag pragraf `<p>`
 ini adalah tapilannya
-![img] screnshot/221.png
+![Gambar 1](screnshot/221.png)
